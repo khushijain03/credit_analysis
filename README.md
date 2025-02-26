@@ -69,3 +69,6 @@ install.packages(c("dplyr", "ggplot2", "tidyverse", "data.table"))
 ```
 source("src/analysis_script.R")
 ```
+
+## Contributing
+I welcome contributions! If you find any improvements, feel free to open an issue or a pull request.
